@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">litweather</string>
+    <string name="searchHint">请输入地址</string>
+
 </resources>
